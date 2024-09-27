@@ -1,1 +1,1 @@
-linuxserver/qbittorrent:4.5.2
+chisbread/transmission:latest
