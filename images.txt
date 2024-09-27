@@ -1,1 +1,1 @@
-jxxghp/moviepilot:latest
+linuxserver/qbittorrent:latest
