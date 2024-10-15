@@ -1,1 +1,1 @@
-lsky-pro-docker:latest
+halcyonazure/lsky-pro-docker:latest
