@@ -1,1 +1,1 @@
-chisbread/transmission:latest
+lsky-pro-docker:latest
