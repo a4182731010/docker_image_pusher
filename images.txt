@@ -1,1 +1,1 @@
-halcyonazure/lsky-pro-docker:latest
+shufflewzc/autoupdateck:latest
