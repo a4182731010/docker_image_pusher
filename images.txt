@@ -1,1 +1,1 @@
-whyour/qinglong:2.17.20
+whyour/qinglong:2.17.2
