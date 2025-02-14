@@ -1,1 +1,1 @@
-homeassistant/home-assistant:latest
+whyour/qinglong:2.18.1
